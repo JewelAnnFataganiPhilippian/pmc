@@ -1,0 +1,40 @@
+body{
+    background: url(/img/pmcbg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header_top{
+    /* position: absolute; */
+    height: 5vh;
+    width: 100%;
+    background-color: rgb(204, 204, 204,.8);
+    
+}
+.header_bottom{
+    /* position: absolute; */
+    height: 11vh;
+    width: 100%;
+    /* top: 15px; */
+    /* position: fixed; */
+    position: sticky;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bod{
+    /* background: url(/img/pmcbg.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    /* align-self: flex-end; */
+    min-height: 84vh;
+}
+.cover{
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 84vh;
+}
+
+.applynow{
+    background-image: url();
+}
+
